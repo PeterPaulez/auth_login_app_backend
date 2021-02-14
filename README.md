@@ -4,3 +4,4 @@
 - nodemon  index.js
 - npm install google-auth-library --save
 - heroku logs -n 100 --tail
+- npm i apple-auth
